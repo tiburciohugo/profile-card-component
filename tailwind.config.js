@@ -9,6 +9,10 @@ module.exports = {
       colors: {
         "medium-gray": "6B7082",
       },
+      backgroundImage: {
+        "mobile" : "url('/Mobile.svg')",
+        "desktop" : "url('/Desktop.svg')",
+      }
     },
   },
   plugins: [],
