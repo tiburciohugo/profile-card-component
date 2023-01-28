@@ -25,7 +25,7 @@ export default function ProfileCard() {
           <h1 className="text-xl font-bold">Victor Crest</h1>
           <p className="ml-2 text-xl font-normal text-gray-400">26</p>
         </div>
-        <p className="pb-4 mt-2 font-normal text-center text-gray-400 border-b-2 border-gray-200 text-md">
+        <p className="pb-4 mt-2 font-normal text-center text-gray-400 border-gray-200 border-b-[1px] text-md">
           London
         </p>
         <div className="flex mt-4 space-x-6 justify-evenly">
